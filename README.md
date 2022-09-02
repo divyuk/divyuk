@@ -17,7 +17,7 @@
 
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=divyuk&show_icons=true&locale=en" alt="divyuk" />
-<img align="right" alt="Coding" width="400" src= "https://leetcard.jacoblin.cool/divyuk?theme=wtf&font=Tiro%20Devanagari%20Hindi&ext=heatmap">
+<img align="right" alt="Coding" width="350" src= "https://leetcard.jacoblin.cool/divyuk?theme=wtf&font=Tiro%20Devanagari%20Hindi&ext=heatmap">
 <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=divyuk&" alt="divyuk" />
 </p>
 
