@@ -20,4 +20,4 @@
 
 <img align="right" alt="Coding" width="400" src= "https://leetcard.jacoblin.cool/Divyu_Kesarwani?theme=wtf&font=Tiro%20Devanagari%20Hindi&ext=heatmap">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyuk&" alt="divyuk" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=divyuk&" alt="divyuk" />
