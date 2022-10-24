@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++ , DSA , Python , Deep Learning**
 
-- 📫 How to reach me **div14kes@gmail.com**
+- 📫 How to reach me **kingsapp14@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
