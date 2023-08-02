@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 💬 Ask me about **C++ , DSA , Python ,JavaScript, React**
+- 💬 Ask me about **C++ , DSA , Python ,JavaScript, React, NodeJS**
 
 - 📫 How to reach me **div14kes@gmail.com**
 
