@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend Web development**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **React and NodeJS**
 
 - 💬 Ask me about **C++, DSA, Python, JavaScript, React, NodeJS**
 
